@@ -13,7 +13,7 @@ Abi’s struggle inspired our redesign. We built a system that supports students
 
 
 Key Outcomes of Our Redesign:
-	1.Cut screen count by 50%: The old portal had 12 steps — we reduced it to just 6 (including pop-ups), making the flow faster and easier.
+	1. Cut screen count by 50%: The old portal had 12 steps: we reduced it to just 6 (including pop-ups), making the flow faster and easier.
 	2. Resolved 8+ usability bugs identified through evaluations and persona testing.
 	3. Applied core UI/UX principles: Focused on clarity, feedback, simplicity, and user control.
 
